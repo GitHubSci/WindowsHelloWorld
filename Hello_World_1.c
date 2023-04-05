@@ -11,6 +11,7 @@ int main(void)
 	printf(" ... was passiert denn jetzt .. ? \n");
 	printf(" ... hat das jetzt auch geklappt .. ? \n");
 	printf(" ... für neuen Plugin-Test .. ? \n");
+	printf(" ... klappt das jetzt mit dem neuen Token .. ? \n");
 return 0;
 }
  
