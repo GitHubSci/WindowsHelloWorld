@@ -13,6 +13,7 @@ int main(void)
 	printf(" ... für neuen Plugin-Test .. ? \n");
 	printf(" ... klappt das jetzt mit dem neuen Token .. ? \n");
 	printf(" ... und die neue Rückwärtsänderung .. ? \n");
+	printf(" ... wird die neuerliche Änderung erkannt .. ? \n");
 return 0;
 }
  
