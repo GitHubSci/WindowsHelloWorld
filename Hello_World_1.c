@@ -14,6 +14,7 @@ int main(void)
 	printf(" ... klappt das jetzt mit dem neuen Token .. ? \n");
 	printf(" ... und die neue Rückwärtsänderung .. ? \n");
 	printf(" ... wird die neuerliche Änderung erkannt .. ? \n");
+	printf(" ... und noch ne weitere Änderung .. ? \n");
 return 0;
 }
  
